@@ -18,7 +18,7 @@ Static PrintStream ps = new PrintStream(System.out);
       
       ps.print("And yaha Projects chal raha hai");
       
-      String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber"}
+      String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"}
       
       String MytechStack = {"Java","HTML","CSS","Python","php"}
       
@@ -31,11 +31,32 @@ Static PrintStream ps = new PrintStream(System.out);
 </div>
 
 ---
+## Stats:
+
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
-[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&theme=radical&layout=compact&show_icons=true)](https://github.com/DivyaKumarBaid)&nbsp;
+[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&show_icons=true&theme=radical)](https://github.com/DivyaKumarBaid)
+
 </div>
+
+---
+## Tech Stack:
+<div align=center>
+<img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+ 
+ ---
+ ## Connect with me :
+ <div align=center>
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>
+ <a href=""></a>
+ 
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
