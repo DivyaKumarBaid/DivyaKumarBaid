@@ -48,6 +48,7 @@ Static PrintStream ps = new PrintStream(System.out);
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/>
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+</div>
  
  ---
  ## Connect with me :
@@ -55,8 +56,8 @@ Static PrintStream ps = new PrintStream(System.out);
  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
  <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>
- <a href=""></a>
- 
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
+ </div>
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
