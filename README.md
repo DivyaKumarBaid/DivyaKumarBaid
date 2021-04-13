@@ -1,4 +1,5 @@
-## Namaste ! 
+## Namaste ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ---
 
 
@@ -7,24 +8,22 @@ import java.io.*;
 
 class Divyakumarbaid {
 
-  public static void account {
-  
-    PrintStream ps = new PrintStream(System.out);
-    
-      ps.print("HEllO THERE !");
+Static PrintStream ps = new PrintStream(System.out);
+ 
+  public static void Mybook {
       
       ps.print("This is Me!");
       
       ps.print("This is my GitHub ");
       
       ps.print("And yaha Projects chal raha hai");
-    }
+      
+      String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber"}
+      
+      String MytechStack = {"Java","HTML","CSS","Python","php"}
+      
  }
 ```
-<div align=center>
-  
-[![coding speed x 1000]("https://media.tenor.com/images/cba2789eade197809794c73b7590ab44/tenor.gif")](https://github.com/shubhayu-64)
-</div>
 
 <img src="https://media.tenor.com/images/cba2789eade197809794c73b7590ab44/tenor.gif">
 
