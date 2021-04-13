@@ -28,7 +28,11 @@ Static PrintStream ps = new PrintStream(System.out);
 <div align=center>
 <img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 </div>
-
+---
+<div align=center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
+[![Divya Kumar Baid's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
+</div>
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
