@@ -24,9 +24,10 @@ Static PrintStream ps = new PrintStream(System.out);
       
  }
 ```
-
-<img src="https://media.tenor.com/images/cba2789eade197809794c73b7590ab44/tenor.gif">
-
+---
+<div style="margin-left:50%">
+<img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
+</div>
 
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
