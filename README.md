@@ -33,8 +33,8 @@ Static PrintStream ps = new PrintStream(System.out);
 ---
 <div align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhayu-64&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
-[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhayu-64&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&theme=radical&show_icons=true)](https://github.com/shubhayu-64)&nbsp;
+[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&show_icons=true&theme=radical)](https://github.com/shubhayu-64)
 </div>
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
