@@ -43,20 +43,20 @@ Static PrintStream ps = new PrintStream(System.out);
 ---
 ## Tech Stack:
 <div align=center>
-<img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/python.png"/>
+<img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&nbsp;
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
+<img src="https://img.icons8.com/dusk/64/000000/python.png"/>&nbsp;
 <img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
 </div>
  
  ---
  ## Connect with me :
  <div align=center>
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>&nbsp;
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&nbsp;
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>&nbsp;
+ <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>&nbsp;
  </div>
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
