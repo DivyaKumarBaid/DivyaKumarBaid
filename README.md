@@ -1,4 +1,4 @@
-## Namaste ! 
+## Namaste ! <img src="https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867" width="30px">
 ---
 [![coding speed x 1000]("https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867")](https://github.com/shubhayu-64)
 
@@ -22,7 +22,7 @@ class Divyakumarbaid {
  }
 ```
 
-<img src="https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867" width="30px">
+
 
 
 <!--
