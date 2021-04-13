@@ -3,8 +3,9 @@
 
 <div align=center>
   
-[![coding speed x 1000]("https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867")](https://github.com/shubhayu-64)
+[![coding speed x 1000]("https://media.tenor.com/images/cba2789eade197809794c73b7590ab44/tenor.gif")](https://github.com/shubhayu-64)
 </div>
+
 ```java
 import java.io.*;
 
