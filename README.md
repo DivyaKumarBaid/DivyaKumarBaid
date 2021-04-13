@@ -1,4 +1,29 @@
-### Hi there 👋
+## Namaste ! 
+---
+[![coding speed x 1000]("https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867")](https://github.com/shubhayu-64)
+
+```java
+import java.io.*;
+
+class Divyakumarbaid {
+
+  public static void account {
+  
+    PrintStream ps = new PrintStream(System.out);
+    
+      ps.print("HEllO THERE !");
+      
+      ps.print("This is Me!");
+      
+      ps.print("This is my GitHub ");
+      
+      ps.print("And yaha Projects chal raha hai");
+    }
+ }
+```
+
+<img src="https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867" width="30px">
+
 
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
