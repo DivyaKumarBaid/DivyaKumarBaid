@@ -26,7 +26,7 @@ class Divyakumarbaid {
  }
 ```
 
-<img src="https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867" width="30px">
+
 
 
 <!--
