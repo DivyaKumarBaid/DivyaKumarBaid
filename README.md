@@ -1,7 +1,10 @@
-## Namaste ! <img src="https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867" width="30px">
+## Namaste ! 
 ---
-[![coding speed x 1000]("https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867")](https://github.com/shubhayu-64)
 
+<div align=center>
+  
+[![coding speed x 1000]("https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867")](https://github.com/shubhayu-64)
+</div>
 ```java
 import java.io.*;
 
@@ -22,7 +25,7 @@ class Divyakumarbaid {
  }
 ```
 
-
+<img src="https://tenor.com/view/vibing-cat-cat-vibe-gif-18148867" width="30px">
 
 
 <!--
