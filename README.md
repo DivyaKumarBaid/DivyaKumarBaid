@@ -25,7 +25,7 @@ Static PrintStream ps = new PrintStream(System.out);
  }
 ```
 ---
-<div style="margin-left:50%">
+<div align=center>
 <img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 </div>
 
