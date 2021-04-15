@@ -36,7 +36,7 @@ Static PrintStream ps = new PrintStream(System.out);
 <div align=center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&theme=radical&layout=compact&show_icons=true)](https://github.com/DivyaKumarBaid)&nbsp;
-[![Shubhayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&show_icons=true&theme=radical)](https://github.com/DivyaKumarBaid)
+[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&show_icons=true&theme=radical)](https://github.com/DivyaKumarBaid)
 
 </div>
 
@@ -53,10 +53,10 @@ Static PrintStream ps = new PrintStream(System.out);
  ---
  ## Connect with me :
  <div align=center>
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>&emsp;    
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&emsp;    
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>&emsp;    
- <a href=""><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>&emsp;    
+ <a href="https://www.instagram.com/divyakumarbaid1008/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>&emsp;    
+ <a href="https://www.linkedin.com/in/divya-kumar-baid-98a087200/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&emsp;    
+ <a href="https://www.facebook.com/divyakumar.baid.5"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>&emsp;    
+ <a href="https://twitter.com/DivyakumarBaid1"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>&emsp;    
  </div>
 <!--
 **DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
