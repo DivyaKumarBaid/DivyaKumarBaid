@@ -47,7 +47,8 @@ Static PrintStream ps = new PrintStream(System.out);
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&emsp;
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>&emsp;    
 <img src="https://img.icons8.com/dusk/64/000000/python.png"/>&emsp;    
-<img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>
+<img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>&emsp;
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
  
  ---
