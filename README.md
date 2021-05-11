@@ -20,7 +20,7 @@ Static PrintStream ps = new PrintStream(System.out);
       
       String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"}
       
-      String MytechStack = {"Java","HTML","CSS","Python","php"}
+      String MytechStack = {"Java","HTML","CSS","Python","php","JavaScript"}
       
  }
 ```
