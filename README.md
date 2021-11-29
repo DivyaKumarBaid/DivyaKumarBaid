@@ -2,7 +2,9 @@
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=DivyaKumarBaid)
+<p align="center">
+  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Shubham-Kumar-2000/count.svg" alt="Visitor Count" /></h2>
+</p>
 
 
 ```java
