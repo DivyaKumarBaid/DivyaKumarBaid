@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <h2 align="center">![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid)</h2>
+  ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid)
 </p>
 
 
