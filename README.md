@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Shubham-Kumar-2000/count.svg" alt="Visitor Count" /></h2>
+  <h2 align="center">![Visitor's Count](https://komarev.com/ghpvc/?username=your-github-username)</h2>
 </p>
 
 
