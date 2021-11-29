@@ -2,10 +2,7 @@
 
 ---
 
-<p align="center">
   ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid)
-</p>
-
 
 ```java
 import java.io.*;
