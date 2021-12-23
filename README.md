@@ -1,7 +1,5 @@
 ## Namaste ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
----
-
   ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid)
 
 ```java
@@ -35,8 +33,8 @@ Static PrintStream ps = new PrintStream(System.out);
 ## Stats:
 <div align="center">
 	<a href="https://github.com/DivyaKumarBaid">
-	    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=a52a2a&ring=a52a2a&sideLabels=34a853&fire=ff6308&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="506" />
-		<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=a52a2a&icon_color=fbdc05&text_color=ffffff&hide_border=1&border_radius=0&bg_color=a52a2a&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
+	    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
+		<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=7c6ae2&icon_color=fbbc05&text_color=ffffff&hide_border=1&border_radius=0&bg_color=1f054e&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
 		<br> </a>
 	</p>
 </div>
@@ -60,17 +58,4 @@ Static PrintStream ps = new PrintStream(System.out);
  <a href="https://www.facebook.com/divyakumar.baid.5"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>&emsp;    
  <a href="https://twitter.com/DivyakumarBaid1"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>&emsp;    
  </div>
-<!--
-**DivyaKumarBaid/DivyaKumarBaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
