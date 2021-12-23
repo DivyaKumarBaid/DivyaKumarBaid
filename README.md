@@ -32,10 +32,10 @@ Static PrintStream ps = new PrintStream(System.out);
 ---
 ## Stats:
 <div align="center">
-	<a href="https://github.com/DivyaKumarBaid">
-	    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
-		<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=7c6ae2&icon_color=fbbc05&text_color=ffffff&hide_border=1&border_radius=0&bg_color=1f054e&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
-		<br> </a>
+	<a href="https://github.com/DivyaKumarBaid"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=7c6ae2&icon_color=fbbc05&text_color=ffffff&hide_border=1&border_radius=0&bg_color=1f054e&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
+		<br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
+		<br>
+	</a>
 	</p>
 </div>
 
