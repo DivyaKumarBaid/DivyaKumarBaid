@@ -35,8 +35,8 @@ Static PrintStream ps = new PrintStream(System.out);
 ## Stats:
 <div align="center">
 	<a href="https://github.com/DivyaKumarBaid">
-	    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=0f389d&ring=4285f4&sideLabels=34a853&fire=fbbc05&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="506" />
-		<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=42a5f4&icon_color=fbdc05&text_color=34d853&hide_border=1&border_radius=0&bg_color=1f48adcc&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
+	    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=#a52a2a&ring=#a52a2a&sideLabels=34a853&fire=#ff6308&currStreakLabel=4285f4&sideNums=34a853&currStreakNum=fbbc05&dates=4285f4" width="506" />
+		<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=a52a2a&icon_color=fbdc05&text_color=ffffff&hide_border=1&border_radius=0&bg_color=1f48adcc&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
 		<br> </a>
 	</p>
 </div>
