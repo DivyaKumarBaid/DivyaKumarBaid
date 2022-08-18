@@ -32,7 +32,9 @@ class Divyakumarbaid {
       String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"};    
  }
 ```
+<br/>
 ### Stats:
+<br/>
 <div align="center">
 	<a href="https://github.com/DivyaKumarBaid"> 
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
@@ -43,7 +45,9 @@ class Divyakumarbaid {
 	</p>
 </div>
 
+<br/>
 ### Tech Stack:
+<br/>
 <div align=center>
 <img src="https://i.postimg.cc/dVRT3xdV/structure-1.png"/>&emsp;&emsp;
 <img src="https://i.postimg.cc/9XS9nTCC/js.png"/>&emsp;&emsp;
@@ -55,7 +59,9 @@ class Divyakumarbaid {
 <img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;
 </div>
  
+ <br/>
  ### Connect with me :
+ <br/>
  <div align=center>
  <a href="https://www.linkedin.com/in/divya-kumar-baid-98a087200/"><img src="https://i.postimg.cc/Jz9J77mw/linkedin.png"/></a>&emsp;&emsp;&emsp;    
  <a href="https://divyakrbaid-tech.vercel.app"><img src="https://i.postimg.cc/1XJCbnk1/Asset-9.png"/></a>&emsp;&emsp;&emsp;    
