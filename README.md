@@ -32,7 +32,7 @@ class Divyakumarbaid {
       String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"};    
  }
 ```
-## Stats:
+#### Stats:
 <div align="center">
 	<a href="https://github.com/DivyaKumarBaid"> 
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
@@ -43,7 +43,7 @@ class Divyakumarbaid {
 	</p>
 </div>
 
-## Tech Stack:
+#### Tech Stack:
 <div align=center>
 <img src="https://i.postimg.cc/dVRT3xdV/structure-1.png"/>&emsp;&emsp;
 <img src="https://i.postimg.cc/9XS9nTCC/js.png"/>&emsp;&emsp;
@@ -55,11 +55,13 @@ class Divyakumarbaid {
 <img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;.
 </div>
  
- ## Connect with me :
+ #### Connect with me :
  <div align=center>
- <a href="https://www.instagram.com/divyakumarbaid1008/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>&emsp;    
- <a href="https://www.linkedin.com/in/divya-kumar-baid-98a087200/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&emsp;    
- <a href="https://www.facebook.com/divyakumar.baid.5"><img src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png"/></a>&emsp;    
- <a href="https://twitter.com/DivyakumarBaid1"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png"/></a>&emsp;    
+ <a href="https://www.linkedin.com/in/divya-kumar-baid-98a087200/"><img src="https://i.postimg.cc/Jz9J77mw/linkedin.png"/></a>&emsp;    
+ <a href="https://divyakrbaid-tech.vercel.app"><img src="https://i.postimg.cc/Hng1TyvJ/Logo-Github.png"/></a>&emsp;    
+ <a href="https://www.instagram.com/divyakumarbaid1008/"><img src="https://i.postimg.cc/Kz5g5nTF/instagram.png"/></a>&emsp;    
+ <a href="https://medium.com/@divyakrbaid"><img src="https://i.postimg.cc/sgB7RQk9/medium.png"/></a>&emsp;    
+ <a href="https://www.facebook.com/divyakumar.baid.5"><img src="https://i.postimg.cc/wBLN1KT1/facebook.png"/></a>&emsp;    
+ <a href="https://twitter.com/DivyakumarBaid1"><img src="https://i.postimg.cc/d1FydWL4/twitter.png"/></a>&emsp;    
  </div>
 
