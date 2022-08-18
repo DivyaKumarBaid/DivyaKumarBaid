@@ -1,12 +1,14 @@
 ## Namaste ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
 <!--   ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid) -->
 
 <div align=center>
 <img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 </div>
+<br/>
   <p align="center"> 
-  Visitor count<br/><br/>
+  Visitor count<br/>
   <img src="https://profile-counter.glitch.me/DivyaKumarBaid/count.svg" />
 </p>
 
@@ -30,16 +32,14 @@ class Divyakumarbaid {
       String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"};    
  }
 ```
----
-
 ## Stats:
 <div align="center">
 	<a href="https://github.com/DivyaKumarBaid"> 
-<!-- 		<img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=7c6ae2&icon_color=fbbc05&text_color=ffffff&hide_border=1&border_radius=2&bg_color=1f054e&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" /> -->
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
-	<br>
+	<br/>
 	</a>
-	<a href="https://github.com/DivyaKumarBaid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&show_icons=true&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" /></a> 
+	<br/>
+	<a href="https://github.com/DivyaKumarBaid/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DivyaKumarBaid&layout=compact&theme=dark&hide_border=false&border_color=7c6ae2&bg_color=00000000" /></a> 
 	</p>
 </div>
 
@@ -52,7 +52,7 @@ class Divyakumarbaid {
 <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>&emsp;&emsp;
 <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>&emsp;&emsp;
 <img src="https://img.icons8.com/color/64/000000/css3.png"/>&emsp;&emsp;
-<img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;
+<img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;.
 </div>
  
  ## Connect with me :
