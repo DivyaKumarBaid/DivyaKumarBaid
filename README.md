@@ -1,8 +1,12 @@
 ## Namaste ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--   ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid) -->
+
+<div align=center>
+<img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
+</div>
   <p align="center"> 
-  Visitor count<br>
+  Visitor count<br/><br/>
   <img src="https://profile-counter.glitch.me/DivyaKumarBaid/count.svg" />
 </p>
 
@@ -27,10 +31,6 @@ class Divyakumarbaid {
  }
 ```
 ---
-
-<div align=center>
-<img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
-</div>
 
 ## Stats:
 <div align ="center">
