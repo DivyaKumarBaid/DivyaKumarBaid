@@ -1,6 +1,10 @@
 ## Namaste ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid)
+<!--   ![Visitor's Count](https://komarev.com/ghpvc/?username=DivyaKumarBaid) -->
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/DivyaKumarBaid/count.svg" />
+</p>
 
 ```java
 import java.io.*;
