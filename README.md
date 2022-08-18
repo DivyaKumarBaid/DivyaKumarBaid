@@ -52,16 +52,16 @@ class Divyakumarbaid {
 <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>&emsp;&emsp;
 <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>&emsp;&emsp;
 <img src="https://img.icons8.com/color/64/000000/css3.png"/>&emsp;&emsp;
-<img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;.
+<img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;
 </div>
  
  ### Connect with me :
  <div align=center>
- <a href="https://www.linkedin.com/in/divya-kumar-baid-98a087200/"><img src="https://i.postimg.cc/Jz9J77mw/linkedin.png"/></a>&emsp;    
- <a href="https://divyakrbaid-tech.vercel.app"><img src="https://i.postimg.cc/1XJCbnk1/Asset-9.png"/></a>&emsp;    
- <a href="https://www.instagram.com/divyakumarbaid1008/"><img src="https://i.postimg.cc/Kz5g5nTF/instagram.png"/></a>&emsp;    
- <a href="https://medium.com/@divyakrbaid"><img src="https://i.postimg.cc/sgB7RQk9/medium.png"/></a>&emsp;    
- <a href="https://www.facebook.com/divyakumar.baid.5"><img src="https://i.postimg.cc/wBLN1KT1/facebook.png"/></a>&emsp;    
- <a href="https://twitter.com/DivyakumarBaid1"><img src="https://i.postimg.cc/d1FydWL4/twitter.png"/></a>&emsp;    
+ <a href="https://www.linkedin.com/in/divya-kumar-baid-98a087200/"><img src="https://i.postimg.cc/Jz9J77mw/linkedin.png"/></a>&emsp;&emsp;&emsp;    
+ <a href="https://divyakrbaid-tech.vercel.app"><img src="https://i.postimg.cc/1XJCbnk1/Asset-9.png"/></a>&emsp;&emsp;&emsp;    
+ <a href="https://www.instagram.com/divyakumarbaid1008/"><img src="https://i.postimg.cc/Kz5g5nTF/instagram.png"/></a>&emsp;&emsp;&emsp;    
+ <a href="https://medium.com/@divyakrbaid"><img src="https://i.postimg.cc/gkxHGTRZ/medium-1.png"/></a>&emsp;    
+ <a href="https://www.facebook.com/divyakumar.baid.5"><img src="https://i.postimg.cc/wBLN1KT1/facebook.png"/></a>&emsp;&emsp;&emsp;    
+ <a href="https://twitter.com/DivyakumarBaid1"><img src="https://i.postimg.cc/d1FydWL4/twitter.png"/></a>&emsp;&emsp;&emsp;    
  </div>
 
