@@ -49,7 +49,7 @@ class Divyakumarbaid {
 <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>&emsp;&emsp;
 <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>&emsp;&emsp;
 <img src="https://img.icons8.com/color/64/000000/css3.png"/>&emsp;&emsp;
-<img src="https://img.icons8.com/dusk/64/000000/php-logo.png"/>&emsp;&emsp;
+<img src="https://i.postimg.cc/76QyVqvY/php.png"/>&emsp;&emsp;
 </div>
  
  ## Connect with me :
