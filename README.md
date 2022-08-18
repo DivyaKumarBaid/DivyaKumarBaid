@@ -6,21 +6,20 @@
 import java.io.*;
 
 class Divyakumarbaid {
-
-Static PrintStream ps = new PrintStream(System.out);
  
   public static void Mybook {
-      
+  
+      PrintStream ps = new PrintStream(System.out);
+
       ps.print("This is Me!");
       
       ps.print("This is my GitHub ");
       
       ps.print("And yaha Projects chal raha hai");
       
-      String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"}
+      String MytechStack = {"React","Java","HTML","CSS","Python","php","JavaScript","MongoDB","NodeJs"};
       
-      String MytechStack = {"Java","HTML","CSS","Python","php","JavaScript"}
-      
+      String InterestedIn = {"Gaming","Digital Art","Video Editing","BeingYoutuber","Coding"};    
  }
 ```
 ---
@@ -29,8 +28,10 @@ Static PrintStream ps = new PrintStream(System.out);
 <img src="https://media2.giphy.com/media/BemKqR9RDK4V2/giphy.gif">
 </div>
 
----
 ## Stats:
+<div align ="center">
+	[![Divya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid)](https://github.com/DivyaKumarBaid/github-readme-stats)
+</div>
 <div align="center">
 	<a href="https://github.com/DivyaKumarBaid"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=DivyaKumarBaid&count_private=true&show_icons=true&theme=onedark&title_color=7c6ae2&icon_color=fbbc05&text_color=ffffff&hide_border=1&border_radius=2&bg_color=1f054e&layout=compact&custom_title=DivyaKumarBaid's GitHub Stats" alt="DivyaKumarBaid" height="200" />
 		<br> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DivyaKumarBaid&border_radius=0&background=00000000&stroke=111f37&hide_border=false&border=7c6ae2&ring=a52a2a&sideLabels=ffffff&fire=ff6308&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=fbbc05&dates=fbbc05" width="506" />
@@ -39,9 +40,9 @@ Static PrintStream ps = new PrintStream(System.out);
 	</p>
 </div>
 
----
 ## Tech Stack:
 <div align=center>
+<img src="https://i.postimg.cc/904W9rnB/structure.png"/>&emsp;
 <img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>&emsp;
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>&emsp;
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>&emsp;    
@@ -50,7 +51,6 @@ Static PrintStream ps = new PrintStream(System.out);
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 </div>
  
- ---
  ## Connect with me :
  <div align=center>
  <a href="https://www.instagram.com/divyakumarbaid1008/"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>&emsp;    
