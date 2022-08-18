@@ -33,6 +33,7 @@ class Divyakumarbaid {
  }
 ```
 <br/>
+
 ### Stats:
 <br/>
 <div align="center">
@@ -46,6 +47,7 @@ class Divyakumarbaid {
 </div>
 
 <br/>
+
 ### Tech Stack:
 <br/>
 <div align=center>
@@ -60,6 +62,7 @@ class Divyakumarbaid {
 </div>
  
  <br/>
+ 
  ### Connect with me :
  <br/>
  <div align=center>
